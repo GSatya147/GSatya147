@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer building & evaluating agentic LLM systems</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/veera-gannamraj-g147
+  <a href="https://www.linkedin.com/in/veera-gannamraj-g147">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gvvsn147@gmail.com">
@@ -78,28 +78,8 @@ Supervisor/researcher/writer multi-agent system with custom MCP server, HITL che
 `LangGraph` `LiteLLM` `MCP`
 
 </td>
-<td width="50%">
-
-**[ExplainNet](https://github.com/GSatya147/ExplainNet)**
-Medical skin lesion classifier with Grad-CAM and MC Dropout for uncertainty-aware, explainable predictions.
-
-`PyTorch` `EfficientNet` `FastAPI` `Docker`
-
-</td>
 </tr>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GSatya147&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSatya147&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
