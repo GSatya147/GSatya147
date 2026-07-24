@@ -17,18 +17,18 @@
 
 ### About me
 
-I'm an MSc Computer Science (AI) student at Coventry University (graduating Sep 2026), focused on **agentic RAG systems** and **LLM evaluation**: the layer between "the model responded" and "the model responded correctly."
+I'm an MSc Computer Science student at Coventry University (graduating Sep 2026), focused on **agentic RAG systems** and **LLM evaluation**: the layer between "the model responded" and "the model responded correctly."
 
 I build from raw Python before reaching for a framework, so I understand what the framework is abstracting away. I don't ship a metric I can't explain. I document failure modes as carefully as I document wins.
 
-- 🔭 Currently building **RAGLens**: a step-level evaluation framework for multi-hop agentic RAG, submitted as my MSc dissertation
-- 🌱 Deepening my grip on agent evaluation, retrieval architectures, and LLM observability
-- 💬 Ask me about LangGraph, retrieval evaluation, or why your RAG pipeline's accuracy number might be lying to you
-- 📍 Based in the UK, full right-to-work from November 2026 (Graduate visa, no sponsorship required)
+-  Currently building **RAGLens**: a step-level evaluation framework for multi-hop agentic RAG, submitted as my MSc dissertation
+-  Deepening my grip on agent evaluation, retrieval architectures, and LLM observability
+-  Ask me about LangGraph, retrieval evaluation, or why your RAG pipeline's accuracy number might be lying to you
+-  Based in the UK
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 
@@ -48,7 +48,7 @@ I build from raw Python before reaching for a framework, so I understand what th
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 <table>
 <tr>
