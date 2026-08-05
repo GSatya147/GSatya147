@@ -21,7 +21,7 @@ I'm an MSc Computer Science student at Coventry University (graduating Sep 2026)
 
 I build from raw Python before reaching for a framework, so I understand what the framework is abstracting away. I don't ship a metric I can't explain. I document failure modes as carefully as I document wins.
 
--  Currently building **RAGLens**: a step-level evaluation framework for multi-hop agentic RAG, submitted as my MSc dissertation
+-  Currently building **HopLens**: a step-level evaluation framework for multi-hop agentic RAG, submitted as my MSc dissertation
 -  Deepening my grip on agent evaluation, retrieval architectures, and LLM observability
 -  Ask me about LangGraph, retrieval evaluation, or why your RAG pipeline's accuracy number might be lying to you
 -  Based in the UK
@@ -58,7 +58,7 @@ I build from raw Python before reaching for a framework, so I understand what th
 <tr>
 <td width="50%">
 
-**[RAGLens](https://github.com/GSatya147/RAGLens)**
+**[HopLens](https://github.com/GSatya147/HopLens)**
 Step-level evaluation framework for multi-hop agentic RAG. 3 retriever architectures, LangGraph 5-node pipeline, failure taxonomy, live diagnostic dashboard.
 
 `LangGraph` `LlamaIndex` `pgvector` `Streamlit`
